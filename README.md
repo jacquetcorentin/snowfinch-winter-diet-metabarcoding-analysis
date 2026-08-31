@@ -49,6 +49,11 @@ You can download the dataset from:
 
 **Download link:** <https://www.gbif.org/fr/occurrence/search?occurrenceStatus=PRESENT&q=&view=download>
 
+## Interactive Krona plots
+
+- [Krona plot (RRA)](https://jacquetcorentin.github.io/snowfinch-winter-diet-metabarcoding-analysis/figures/krona_RRA.html)
+- [Krona plot (FOO)](https://jacquetcorentin.github.io/snowfinch-winter-diet-metabarcoding-analysis/figures/krona_FOO.html)
+  
 ## How to Run the Analysis
 
 1. Install required R packages (see script headers)
