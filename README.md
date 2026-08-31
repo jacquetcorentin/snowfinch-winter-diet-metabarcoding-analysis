@@ -51,7 +51,7 @@ You can download the dataset from:
 
 ## Interactive Krona plots
 
-- [Krona plot (RRA)](https://jacquetcorentin.github.io/snowfinch-winter-diet-metabarcoding-analysis/figures/krona_RRA.html)
+- [Krona plot (RRA)](https://jacquetcorentin.github.io/snowfinch-winter-diet-metabarcoding-analysis/figures/krona_RA.html)
 - [Krona plot (FOO)](https://jacquetcorentin.github.io/snowfinch-winter-diet-metabarcoding-analysis/figures/krona_FOO.html)
   
 ## How to Run the Analysis
